@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shohta</h1>
-<h3 align="center">A passionate IT Endineer from Egypt</h3>
+<h3 align="center">A passionate IT Engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **MCSA, Cyber security**
 
